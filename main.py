@@ -4,7 +4,7 @@ import datetime
 import pandas as pd
 from datetime import datetime
 
-conn = psycopg2.connect("dbname='postgres' user='amedvedeva' host='135.181.61.116' password='JhnbgLrt@345nbvYukfbg^739cdsg'")
+conn = psycopg2.connect("dbname='postgres' user='' host='' password=''")
 
 # IEO name, month and year of start of this IEO
 ieos_info_qwr = """
